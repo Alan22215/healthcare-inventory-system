@@ -201,7 +201,6 @@ The system is designed to work with real-world datasets in a secure environment.
 ## 👨‍💻 Author
 
 Alan Stephen
-(Add your GitHub / LinkedIn profile)
 
 ---
 
