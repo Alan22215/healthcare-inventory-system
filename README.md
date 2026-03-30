@@ -1,4 +1,3 @@
-# healthcare-inventory-system
 # 🏥 Healthcare Inventory Optimization & Purchase Order System
 
 ## 📌 Overview
@@ -133,7 +132,25 @@ Status: 🔴 Reorder Required
 
 ---
 
+## 📁 Project Structure
 
+```text
+healthcare-inventory-system/
+
+├── phase1_prototype/
+│   ├── dashboards/
+│   ├── notebooks/
+│   └── README.md
+│
+├── phase2_system/
+│   ├── main.py
+│   └── README.md
+│
+├── data/
+│   └── sample_data.csv (optional)
+│
+├── README.md
+```
 
 ---
 
@@ -184,7 +201,7 @@ The system is designed to work with real-world datasets in a secure environment.
 ## 👨‍💻 Author
 
 Alan Stephen
-
+(Add your GitHub / LinkedIn profile)
 
 ---
 
